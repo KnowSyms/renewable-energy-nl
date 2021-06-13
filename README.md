@@ -13,8 +13,8 @@ The source [CSV data](https://opendata.cbs.nl/statline/portal.html?_la=en&_catal
 
 
 ## files
-* [renewable_energy_nl.ttl](https://github.com/KnowSyms/sbi-linked-data/blob/master/SBI_2008_upd.2019.ttl) - Turle format
-* [renewable_energy_nl.nt](https://github.com/KnowSyms/sbi-linked-data/blob/master/SBI_2008_upd.2019.nt) - N-Triples format
+* [renewable_energy_nl.ttl](https://github.com/KnowSyms/renewable-energy-nl/blob/main/renewable_energy_nl.ttl) - Turle format
+* [renewable_energy_nl.nt](https://github.com/KnowSyms/renewable-energy-nl/blob/main/renewable_energy_nl.nt) - N-Triples format
 
 
 ## disclaimer
